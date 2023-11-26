@@ -1,0 +1,955 @@
+Start Quest, 
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest", Quest Name, Quest Index)
+
+World: 1 <- First Sea
+
+Questy: MarineQuest <- Quest Name
+NPCName: Marine Leader
+Position: -2708.577392578125, 23.21882438659668, 2105.34814453125
+1 <- Quest Index : 0 <- Quest Level
+1 <- Quest Index
+Exp: 300 <- Experience
+Beli: 350 <- $ Beli
+Trainee: 5 <- Defeat 5 Trainees
+Name: Trainees <- Quest Title
+LevelReq: 0 <- Level Required
+
+Questy: BanditQuest1
+NPCName: Bandit Quest Giver
+Position: 1059.3719482421875, 15.449506759643555, 1550.423095703125
+1: 0
+1
+Exp: 300
+Beli: 350
+Bandit: 5
+Name: Bandits
+LevelReq: 0
+
+
+Questy: JungleQuest
+NPCName: Adventurer
+Position: -1598.089111328125, 35.55011749267578, 153.37783813476562
+1: 10
+2: 15
+3: 20
+1
+Exp: 2,300
+Beli: 800
+Monkey: 6
+Name: Monkeys
+LevelReq: 10
+2
+Exp: 4,500
+Beli: 1,200
+Gorilla: 8
+Name: Gorillas
+LevelReq: 15
+3
+Exp: 9,500
+Beli: 2,000
+The Gorilla King: 1
+Name: Gorilla King
+LevelReq: 20
+
+Questy: BuggyQuest1
+NPCName: Pirate Adventurer
+Position: -1141.0748291015625, 4.10001802444458, 3831.5498046875
+1: 30
+2: 40
+3: 55
+1
+Exp: 13,000
+Beli: 3,000
+Pirate: 8
+Name: Pirates
+LevelReq: 30
+2
+Exp: 22,000
+Beli: 3,500
+Brute: 8
+Name: Brute
+LevelReq: 40
+3
+Exp: 45,000
+Beli: 8,000
+Bobby: 1
+Name: Bobby
+LevelReq: 55
+
+Questy: DesertQuest
+NPCName: Desert Adventurer
+Position: 894.4886474609375, 5.140007019042969, 4392.43359375
+1: 60
+2: 75
+1
+Exp: 45,000
+Beli: 4,000
+Desert Bandit: 8
+Name: Desert Bandit
+LevelReq: 60
+2
+Exp: 65,000
+Beli: 4,500
+Desert Officer: 6
+Name: Desert Officer
+LevelReq: 75
+
+Questy: SnowQuest
+NPCName: Villager
+Position: 1389.7445068359375, 86.65208435058594, -1298.907958984375
+1: 90
+2: 100
+3: 105
+1
+Exp: 90,000
+Beli: 5,000
+Snow Bandit: 7
+Name: Snow Bandit
+LevelReq: 90
+2
+Exp: 150,000
+Beli: 5,500
+Snowman: 8
+Name: Snowman
+LevelReq: 100
+3
+Exp: 220,000
+Beli: 10,000
+Yeti: 1
+Name: Yeti
+LevelReq: 105
+
+Questy: MarineQuest2
+NPCName: Marine
+Position: -5039.58642578125, 27.350038528442383, 4324.68017578125
+1: 120
+2: 130
+1
+Exp: 225000
+Beli: 6000
+Chief Petty Officer: 8
+Name: Chief Petty Officer
+LevelReq: 120
+2
+Exp: 415,000
+Beli: 15,000
+Vice Admiral: 1
+Name: Vice Admiral
+LevelReq: 130
+
+Questy: SkyQuest
+NPCName: Sky Adventurer
+Position: -4839.5302734375, 716.3685913085938, -2619.441650390625
+1: 150
+2: 175
+1
+Exp: 315,000
+Beli: 7,000
+Sky Bandit: 7
+Name: Sky Bandit
+LevelReq: 150
+2
+Exp: 450,000
+Beli: 7,500
+Dark Master: 8
+Name: Dark Master
+LevelReq: 175
+
+Questy: PrisonerQuest
+NPCName: Jail Keeper
+Position: 5310.60546875, 0.35001492500305176, 474.94659423828125
+1: 190
+2: 210
+1
+Exp: 550,000
+Beli: 7,000
+Prisoner: 8
+Name: Prisoner
+LevelReq: 190
+2
+Exp: 780,000
+Beli: 7,500
+Dangerous Prisoner: 8
+Name: Dangerous Prisoner
+LevelReq: 210
+
+Questy: ImpelQuest
+NPCName: Head Jailer
+Position: 5191.861328125, 2.8402068614959717, 686.438720703125
+1: 220
+2: 230
+3: 240
+1
+Exp: 850,000
+Beli: 6,000
+Warden: 1
+Name: Warden
+LevelReq: 220
+2
+Exp: 1,000,000
+Beli: 10,000
+Chief Warden: 1
+Name: Chief Warden
+LevelReq: 230
+3
+Exp: 1,600,000
+Beli: 15,000
+Swan: 1
+Name: Swan
+LevelReq: 240
+
+Questy: ColosseumQuest
+NPCName: Colosseum Quest Giver
+Position: -1580.046630859375, 6.350002765655518, -2986.475341796875
+1: 250
+2: 275
+1
+Exp: 1,100,000
+Beli: 7,000
+Toga Warrior: 7
+Name: Toga Warrior
+LevelReq: 250
+2
+Exp: 1,300,000
+Beli: 7,500
+Gladiator: 8
+Name: Gladiator
+LevelReq: 275
+
+Questy: MagmaQuest
+NPCName: The Mayor
+Position: -5313.3701171875, 10.950008392333984, 8515.2939453125
+1: 300
+2: 325
+3: 350
+1
+Exp: 1,700,000
+Beli: 8,250
+Military Soldier: 7
+Name: Mil. Soldier
+LevelReq: 300
+2
+Exp: 2,000,000
+Beli: 8,500
+Military Spy: 8
+Name: Mil. Spy
+LevelReq: 325
+3
+Exp: 3,000,000
+Beli: 15,000
+Magma Admiral: 1
+Name: Magma Admiral
+LevelReq: 350
+
+Questy: FishmanQuest
+NPCName: King Neptune
+Position: 61121.109375, 17.953125, 1564.5263671875
+1: 375
+2: 400
+3: 425
+1
+Exp: 3,050,000
+Beli: 8,750
+Fishman Warrior: 8
+Name: Fishman Warrior
+LevelReq: 375
+2
+Exp: 3,350,000
+Beli: 9,000
+Fishman Commando: 7
+Name: Fishman Commando
+LevelReq: 400
+3
+Exp: 4,250,000
+Beli: 15,000
+Fishman Lord: 1
+Name: Fishman Lord
+LevelReq: 425
+
+Questy: SkyExp1Quest
+NPCName : Mole
+Position : -4721.888671875, 843.8746948242188, -1949.9664306640625
+1: 450
+2: 475
+3: 500
+1
+Exp: 4,250,000
+Beli: 8,750
+God's Guard: 7
+Name: God's Guard
+LevelReq: 450
+2
+Exp: 5,000,000
+Beli: 9,000
+Shanda: 9
+Name: Shanda
+LevelReq: 475
+3
+Exp: 5,700,000
+Beli: 15,000
+Wysper: 1
+Name: Wysper
+LevelReq: 500
+
+Questy: SkyExp2Quest
+NPCName: Sky Quest Giver 2
+Position: -7904.6845703125, 5634.6611328125, -1409.96728515625
+1: 525
+2: 550
+3: 575
+1
+Exp: 5,800,000
+Beli: 9,500
+Royal Squad: 8
+Name: Royal Squad
+LevelReq: 525
+2
+Exp: 6,300,000
+Beli: 9,750
+Royal Soldier: 8
+Name: Royal Soldier
+LevelReq: 550
+3
+Exp: 8,000,000
+Beli: 20,000
+Thunder God: 1
+Name: Thunder God
+LevelReq: 575
+
+Questy: FountainQuest
+NPCName: Freezeburg Quest Giver
+Position: 5259.81982421875, 37.35001754760742, 4050.029296875
+1: 625
+2: 650
+3: 675
+1
+Exp: 7,500,000
+Beli: 10,000
+Galley Pirate: 8
+Name: Galley Pirate
+LevelReq: 625
+2
+Exp: 8,500,000
+Beli: 10,000
+Galley Captain: 9
+Name: Galley Captain
+LevelReq: 650
+3
+Exp: 10,000,000
+Beli: 20,000
+Cyborg: 1
+Name: Cyborg
+LevelReq: 675
+
+
+World: 2
+
+Questy: Area1Quest
+NPCName: Area 1 Quest Giver
+Position: -429.54351806640625, 71.7699966430664, 1836.181884765625
+1: 700
+2: 725
+3: 750
+1
+Exp: 8,750,000
+Beli: 10,250
+Raider: 8
+Name: Raider
+LevelReq: 700
+2
+Exp: 9,750,000
+Beli: 10,500
+Mercenary: 8
+Name: Mercenary
+LevelReq: 725
+3
+Exp: 12,500,000
+Beli: 25,000
+Diamond: 1
+Name: Diamond
+LevelReq: 750
+
+Questy: Area2Quest
+NPCName: Area 2 Quest Giver
+Position: 638.4381103515625, 71.76998901367188, 918.2828979492188
+1: 775
+2: 800
+3: 850
+1
+Exp: 11,500,000
+Beli: 10,750
+Swan Pirate: 8
+Name: Swan Pirate
+LevelReq: 775
+2
+Exp: 13,000,000
+Beli: 11,000
+Factory Staff: 8
+Name: Factory Staff
+LevelReq: 800
+3
+Exp: 16,000,000
+Beli: 25,000
+Jeremy: 1
+Name: Jeremy
+LevelReq: 850
+
+Questy: MarineQuest3
+NPCName: Marine Quest Giver
+Position: -2440.79638671875, 71.71407318115234, -3216.068115234375
+1: 875
+2: 900
+3: 925
+1
+Exp: 15,000,000
+Beli: 11,250
+Marine Lieutenant: 8
+Name: Marine Lieutenant
+LevelReq: 875
+2
+Exp: 16,500,000
+Beli: 11,500
+Marine Captain: 9
+Name: Marine Captain
+LevelReq: 900
+3
+Exp: 19,000,000
+Beli: 25,000
+Fajita: 1
+Name: Fajita
+LevelReq: 925
+
+Questy: ZombieQuest
+NPCName: Graveyard Quest Giver
+Position: -5497.0615234375, 47.59230041503906, -795.237060546875
+1: 950
+2: 975
+1
+Exp: 19,000,000
+Beli: 11,750
+Zombie: 8
+Name: Zombie
+LevelReq: 950
+2
+Exp: 20,500,000
+Beli: 12,000
+Vampire: 8
+Name: Vampire
+LevelReq: 975
+
+Questy: SnowMountainQuest
+NPCName: Snow Quest Giver
+Position: 609.8588256835938, 400.1199035644531, -5372.25927734375
+1: 1000
+2: 1050
+1
+Exp: 22,500,000
+Beli: 12,250
+Snow Trooper: 8
+Name: Snow Trooper
+LevelReq: 1000
+2
+Exp: 24,000,000
+Beli: 12,500
+Winter Warrior: 9
+Name: Winter Warrior
+LevelReq: 1050
+
+Questy: IceSideQuest
+NPCName: Ice Quest Giver
+Position: -6064.06884765625, 15.24228572845459, -4902.978515625
+1: 1100
+2: 1125
+3: 1150
+1
+Exp: 25,500,000
+Beli: 12,250
+Lab Subordinate: 8
+Name: Lab Subordinate
+LevelReq: 1100
+2
+Exp: 27,000,000
+Beli: 12,500
+Horned Warrior: 9
+Name: Horned Warrior
+LevelReq: 1125
+3
+Exp: 32,500,000
+Beli: 20,000
+Smoke Admiral: 1
+Name: Smoke Admiral
+LevelReq: 1150
+
+Questy: FireSideQuest
+NPCName: Fire Quest Giver
+Position: -5428.03173828125, 15.062292098999023, -5299.4345703125
+1: 1175
+2: 1200
+1
+Exp: 29,000,000
+Beli: 12,250
+Magma Ninja: 8
+Name: Magma Ninja
+LevelReq: 1175
+2
+Exp: 31,000,000
+Beli: 12,500
+Lava Pirate: 8
+Name: Lava Pirate
+LevelReq: 1200
+
+Questy: ShipQuest1
+NPCName: Rear Crew Quest Giver
+Position: 1041.09521484375, 124.1673583984375, 32909.25
+1: 1250
+2: 1275
+1
+Exp: 33,000,000
+Beli: 12,250
+Ship Deckhand: 8
+Name: Ship Deckhand
+LevelReq: 1250
+2
+Exp: 35,500,000
+Beli: 12,500
+Ship Engineer: 8
+Name: Ship Engineer
+LevelReq: 1275
+
+Questy: ShipQuest2
+NPCName: Front Crew Quest Giver
+Position: 971.373046875, 124.16748809814453, 33248.7109375
+1: 1300
+2: 1325
+1
+Exp: 37,500,000
+Beli: 12,250
+Ship Steward: 8
+Name: Ship Steward
+LevelReq: 1300
+2
+Exp: 39,500,000
+Beli: 12,500
+Ship Officer: 8
+Name: Ship Officer
+LevelReq: 1325
+
+Questy: FrostQuest
+NPCName: Frost Quest Giver
+Position: 5667.658203125, 26.799781799316406, -6486.08984375
+1: 1350
+2: 1375
+3: 1400
+1
+Exp: 41,000,000
+Beli: 12,250
+Arctic Warrior: 8
+Name: Arctic Warrior
+LevelReq: 1350
+2
+Exp: 43,000,000
+Beli: 12,500
+Snow Lurker: 8
+Name: Snow Lurker
+LevelReq: 1375
+3
+Exp: 45,000,000
+Beli: 20,000
+Awakened Ice Admiral: 1
+Name: Ice Admiral
+LevelReq: 1400
+
+Questy: ForgottenQuest
+NPCName : Forgotten Quest Giver
+Position : -3054.444580078125, 238.34426879882812, -10142.8193359375
+1: 1425
+2: 1450
+3: 1475
+1
+Exp: 47,000,000
+Beli: 12,250
+Sea Soldier: 8
+Name: Sea Soldier
+LevelReq: 1425
+2
+Exp: 49,000,000
+Beli: 12,500
+Water Fighter: 8
+Name: Water Fighter
+LevelReq: 1450
+3
+Exp: 51,000,000
+Beli: 12,500
+Tide Keeper: 1
+Name: Tide Keeper
+LevelReq: 1475
+
+
+World: 3
+
+Questy: PiratePortQuest
+NPCName: Pirate Port Quest Giver
+Position: -290.0746765136719, 42.903465270996094, 5581.58984375
+1: 1500
+2: 1525
+3: 1550
+1
+Exp: 53,000,000
+Beli: 13,000
+Pirate Millionaire: 8
+Name: Pirate Millionaire
+LevelReq: 1500
+2
+Exp: 55,500,000
+Beli: 15,000
+Pistol Billionaire: 8
+Name: Pistol Billionaire
+LevelReq: 1525
+3
+Exp: 60,000,000
+Beli: 25,000
+Stone: 1
+Name: Stone
+LevelReq: 1550
+
+Questy: AmazonQuest
+NPCName: Amazon Quest Giver
+Position: 5832.8359375, 51.68061065673828, -1101.515625
+1: 1575
+2: 1600
+1
+Exp: 58,000,000
+Beli: 13,000
+Dragon Crew Warrior: 8
+Name: Dragon Crew Warrior
+LevelReq: 1575
+2
+Exp: 60,500,000
+Beli: 15,000
+Dragon Crew Archer: 8
+Name: Dragon Crew Archer
+LevelReq: 1600
+
+Questy: AmazonQuest2
+NPCName: Amazon Area 2 Quest Giver
+Position: 5448.861328125, 601.5161743164062, 751.1306762695312
+1: 1625
+2: 1650
+3: 1675
+1
+Exp: 62,500,000
+Beli: 13,000
+Female Islander: 8
+Name: Female Islander
+LevelReq: 1625
+2
+Exp: 64,500,000
+Beli: 15,000
+Giant Islander: 8
+Name: Giant Islander
+LevelReq: 1650
+3
+Exp: 70,000,000
+Beli: 30,000
+Island Empress: 1
+Name: Island Empress
+LevelReq: 1675
+
+Questy: MarineTreeIsland
+NPCName: Marine Tree Quest Giver
+Position: 2180.541259765625, 27.81568145751953, -6741.5498046875
+1: 1700
+2: 1725
+3: 1750
+1
+Exp: 68,000,000
+Beli: 13,000
+Marine Commodore: 8
+Name: Marine Commodore
+LevelReq: 1700
+2
+Exp: 70,500,000
+Beli: 15,000
+Marine Rear Admiral: 8
+Name: Marine Rear Admiral
+LevelReq: 1725
+3
+Exp: 78,000,000
+Beli: 35,000
+Kilo Admiral: 1
+Name: Kilo Admiral
+LevelReq: 1750
+
+Questy: DeepForestIsland3
+NPCName: Turtle Adventure Quest Giver
+Position: -10581.65625, 330.8729553222656, -8761.1865234375
+1: 1775
+2: 1800
+1
+Exp: 73,000,000
+Beli: 13,000
+Fishman Raider: 8
+Name: Fishman Raider
+LevelReq: 1775
+2
+Exp: 75,500,000
+Beli: 15,000
+Fishman Captain: 8
+Name: Fishman Captain
+LevelReq: 1800
+
+Questy: DeepForestIsland
+NPCName: Deep Forest Quest Giver
+Position: -13234.0400390625, 331.4884948730469, -7625.4013671875
+1: 1825
+2: 1850
+3: 1875
+1
+Exp: 78,000,000
+Beli: 13,000
+Forest Pirate: 8
+Name: Forest Pirate
+LevelReq: 1825
+2
+Exp: 81,000,000
+Beli: 13,000
+Mythological Pirate: 8
+Name: Mythological Pirate
+LevelReq: 1850
+3
+Exp: 90,000,000
+Beli: 40,000
+Captain Elephant: 1
+Name: Captain Elephant
+LevelReq: 1875
+
+Questy: DeepForestIsland2
+NPCName: Deep Forest Area 2 Quest Giver
+Position: -12680.3818359375, 389.9710388183594, -9902.01953125
+1: 1900
+2: 1925
+3: 1950
+1
+Exp: 85,000,000
+Beli: 13,000
+Jungle Pirate: 8
+Name: Jungle Pirate
+LevelReq: 1900
+2
+Exp: 87,500,000
+Beli: 15,000
+Musketeer Pirate: 8
+Name: Musketeer Pirate
+LevelReq: 1925
+3
+Exp: 100,000,000
+Beli: 50,000
+Beautiful Pirate: 1
+Name: Beautiful Pirate
+LevelReq: 1950
+
+Questy: HauntedQuest1
+NPCName: Haunted Castle Quest Giver 1
+Position: -9479.216796875, 141.215087890625, 5566.0927734375
+1: 1975
+2: 2000
+1
+Exp: 91,000000
+Beli: 13,000
+Reborn Skeleton: 8
+Name: Reborn Skeleton
+LevelReq: 1975
+2
+Exp: 93,500,000
+Beli: 13,250
+Living Zombie: 8
+Name: Living Zombie
+LevelReq: 2000
+
+Questy: HauntedQuest2
+NPCName: Haunted Castle Quest Giver 2
+Position: -9516.9931640625, 172.01718139648438, 6078.46533203125
+1: 2025
+2: 2050
+1
+Exp: 96,000,000
+Beli: 13,500
+Demonic Soul: 8
+Name: Demonic Soul
+LevelReq: 2025
+2
+Exp: 98,500,000
+Beli: 13,750
+Posessed Mummy: 8
+Name: Posessed Mummy
+LevelReq: 2050
+
+Questy: NutsIslandQuest
+NPCName: Peanut Quest Giver
+Position: -2105.531982421875, 37.24959945678711, -10195.5087890625
+1: 2075
+2: 2100
+1
+Exp: 100,000,000
+Beli: 14,000
+Peanut Scout: 8
+Name: Peanut Scout
+LevelReq: 2075
+2
+Exp: 102,500,000
+Beli: 14,100
+Peanut President: 8
+Name: Peanut President
+LevelReq: 2100
+
+Questy: IceCreamIslandQuest
+NPCName: Ice Cream Quest Giver
+Position: -819.376708984375, 64.92597961425781, -10967.283203125
+1: 2125
+2: 2150
+3: 2175
+1
+Exp: 105,000,000
+Beli: 14,200
+Ice Cream Chef: 8
+Name: Ice Cream Chef
+LevelReq: 2125
+2
+Exp: 107,500,000
+Beli: 14,300
+Ice Cream Commander: 8
+Name: Ice Cream Commander
+LevelReq: 2150
+3
+Exp: 112,500,000
+Beli: 30,000
+Cake Queen: 1
+Name: Cake Queen
+LevelReq: 2175
+
+Questy: CakeQuest1
+NPCName: Cake Quest Giver 1
+Position: -2022.298583984375, 36.927589416503906, -12030.9765625
+1: 2200
+2: 2225
+1
+Exp: 110,000,000
+Beli: 14,200
+Cookie Crafter: 8
+Name: Cookie Crafter
+LevelReq: 2200
+2
+Exp: 112,500,000
+Beli: 14,300
+Cake Guard: 8
+Name: Cake Guard
+LevelReq: 2225
+
+Questy: CakeQuest2
+NPCName: Cake Quest Giver 2
+Position: -1928.317626953125, 37.72966384887695, -12840.6259765625
+1: 2250
+2: 2275
+1
+Exp: 115,000,000
+Beli: 14,400
+Baking Staff: 8
+Name: Baking Staff
+LevelReq: 2250
+2
+Exp: 117,500,000
+Beli: 14,500
+Head Baker: 8
+Name: Head Baker
+LevelReq: 2275
+
+Questy: ChocQuest1
+NPCName: Chocolate Quest Giver 1
+Position: 231.75, 23.90030288696289, -12200.2919921875
+1: 2300
+2: 2325
+1
+Exp: 120,000,000
+Beli: 14,600
+Cocoa Warrior: 8
+Name: Cocoa Warrior
+LevelReq: 2300
+2
+Exp: 122,500,000
+Beli: 14,700
+Chocolate Bar Battler: 8
+Name: Chocolate Bar Battler
+LevelReq: 2325
+
+Questy: ChocQuest2
+NPCName: Chocolate Quest Giver 2
+Position: 151.1982421875, 23.890714645385742, -12774.6171875
+1: 2350
+2: 2375
+1
+Exp: 125,000,000
+Beli: 14,800
+Sweet Thief: 8
+Name: Sweet Thief
+LevelReq: 2350
+2
+Exp: 127,500,000
+Beli: 14,900
+Candy Rebel: 8
+Name: Candy Rebel
+LevelReq: 2375
+
+Questy: CandyQuest1
+NPCName: Candy Cane Quest Giver
+Position: -1149.3280029296875, 13.57590389251709, -14445.6142578125
+1: 2400
+2: 2425
+1
+Exp: 129,000,000
+Beli: 14,950
+Candy Pirate: 8
+Name: Candy Pirate
+LevelReq: 2400
+2
+Exp: 131,000,000
+Beli: 15,000
+Snow Demon: 8
+Name: Snow Demon
+LevelReq: 2425
+
+Questy: TikiQuest1
+NPCName: Tiki Quest Giver 1
+Position: -16548.81640625, 55.60599136352539, -172.8125
+1: 2450
+2: 2475
+1
+Exp: 133,000,000
+Beli: 15,100
+Isle Outlaw: 8
+Name: Isle Outlaw
+LevelReq: 2450
+2
+Exp: 135,000,000
+Beli: 15,200
+Island Boy: 8
+Name: Island Boy
+LevelReq: 2475
+
+Questy: TikiQuest2
+NPCName: Tiki Quest Giver 2
+Position: -16541.021484375, 54.77081298828125, 1051.461181640625
+1: 2500
+2: 2525
+1
+Exp: 137,000,000
+Beli: 15,250
+Sun-kissed Warrior: 8
+Name: Sun-kissed Warrior
+LevelReq: 2500
+2
+Exp: 139,000,000
+Beli: 15,500
+Isle Champion: 8
+Name: Isle Champion
+LevelReq: 2525
