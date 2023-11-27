@@ -1,0 +1,274 @@
+Price, $5,000 or 50R$
+SpawnChance, 0.07058230400806653
+Name, Rocket-Rocket
+StockChance, 1
+Type, Natural
+Rarity, Common
+
+Price, $7,500 or 75R$
+SpawnChance, 0.07058230400806653
+Name, Spin-Spin
+StockChance, 1 
+Type, Natural
+Rarity, Common
+
+Price, $30,000 or 100R$
+SpawnChance, 0.07058230400806653
+Name, Chop-Chop
+StockChance, 0.35
+Type, Natural
+Rarity, Common
+
+Price, $60,000 or 180R$
+SpawnChance, 0.06049911772119988
+Name, Spring-Spring
+StockChance, 0.2 
+Type, Natural
+Rarity, Common
+
+Price, $80,000 or 220R$
+SpawnChance, 0.05545752457776656
+Name, Bomb-Bomb
+StockChance, 0.16
+Type, Natural
+Rarity, Common
+
+Price, $100,000 or 250R$
+SpawnChance, 0.07058230400806653
+Name, Smoke-Smoke
+StockChance, 0.25 
+Type, Elemental
+Rarity, Common
+
+Price, $180,000 or 380R$
+SpawnChance, 0.05041593143433324
+Name, Spike-Spike
+StockChance, 0.13
+Type, Natural
+Rarity, Common
+
+Price, $250,000 or 550R$
+SpawnChance, 0.05545752457776656
+Name, Flame-Flame
+StockChance, 0.3
+Type, Elemental
+Rarity, Uncommon
+Awakening, ƒ14,500
+
+Price, $300,000 or 650R$
+SpawnChance, 0.04537433829089991
+Name, Falcon-Falcon
+StockChance, 0.11
+Type, Beast
+Rarity, Uncommon
+
+Price, $350,000 or 750R$
+SpawnChance, 0.05041593143433324
+Name, Ice-Ice
+StockChance, 0.15
+Type, Elemental
+Rarity, Uncommon
+Awakening, ƒ14,500
+
+Price, $420,000 or 850R$
+SpawnChance, 0.04285354171918326
+Name, Sand-Sand
+StockChance, 0.15
+Type, Elemental
+Rarity, Uncommon
+Awakening, ƒ14,500
+
+Price, $500,000 or 950R$
+SpawnChance, 0.037811948575749925
+Name, Dark-Dark
+StockChance, 0.15
+Type, Elemental
+Rarity, Uncommon
+Awakening, ƒ14,500
+
+Price, $600,000 or 1,000R$
+SpawnChance, 0.035291152004033266
+Name, Diamond-Diamond
+StockChance, 0.09
+Type, Natural
+Rarity, Uncommon
+
+Price, $650,000 or 1,100R$
+SpawnChance, 0.04033274514746659
+Name, Light-Light
+StockChance, 0.2
+Type, Elemental
+Rarity, Rare
+Awakening, ƒ14,500
+
+Price, $750,000 or 1,200R$
+SpawnChance, 0.035291152004033266
+Name, Rubber-Rubber
+StockChance, 0.13
+Type, Natural
+Rarity, Rare
+
+Price, $800,000 or 1,250R$
+SpawnChance, 0.02520796571716662
+Name, Barrier-Barrier
+StockChance, 0.08
+Type, Natural
+Rarity, Rare
+
+Price, $940,000 or 1,275R$
+SpawnChance, 0.02520796571716662
+Name, Ghost-Ghost
+StockChance, 0.07
+Rarity, Rare
+
+Price, $960,000 or 1,300R$
+SpawnChance, 0.03024955886059994
+Name, Magma-Magma
+StockChance, 0.1
+Type, Elemental
+Rarity, Rare
+Awakening, ƒ14,500
+
+Price, $1,000,000 or 1,500R$
+SpawnChance, 0.020166372573733295
+Name, Quake-Quake
+StockChance, 0.06
+Type, Natural
+Rarity, Legendary
+Awakening, ƒ17,000
+
+Price, $1,200,000 or 1,650R$
+SpawnChance, 0.01512477943029997
+Name, Buddha-Buddha
+StockChance, 0.05
+Type, Beast
+Rarity, Legendary
+Awakening, ƒ14,500
+
+Price, $1,300,000 or 1,700R$
+SpawnChance, 0.01512477943029997
+Name, Love-Love
+StockChance, 0.05
+Type, Natural
+Rarity, Legendary
+
+Price, $1,500,000 or 1,800R$
+SpawnChance, 0.01260398285858331
+Name, Spider-Spider
+StockChance, 0.04
+Type, Natural
+Rarity, Legendary
+Awakening, ƒ17,300
+
+Price, $1,700,000 or 1,900R$
+SpawnChance, 0.007562389715149985
+Name, Sound-Sound
+StockChance, 0.03
+Type, Natural
+Rarity, Legendary
+
+Price, $1,800,000 or 2,000R$
+SpawnChance, 0.007562389715149985
+Name, Phoenix-Phoenix
+StockChance, 0.03
+Type, Beast
+Rarity, Legendary
+Awakening, ƒ18,500
+
+Price, $1,900,000 or 2,000R$ 
+SpawnChance, 0.007562389715149985
+Name, Portal-Portal
+StockChance, 0.03 
+Type, Natural
+Rarity, Legendary
+
+Price, $2,100,000 or 2,100R$
+SpawnChance, 0.005797832114948322
+Name, Rumble-Rumble
+StockChance, 0.0225
+Type, Elemental
+Rarity, Legendary
+Awakening, ƒ14,500
+
+Price, $2,300,000 or 2,200R$
+SpawnChance, 0.004789513486261657
+Name, Pain-Pain
+StockChance, 0.019
+Type, Natural
+Rarity, Legendary
+
+Price, $2,400,000 or 2,250R$
+SpawnChance, 0.0035291152004033265
+Name, Blizzard-Blizzard
+StockChance, 0.014
+Type, Elemental
+Rarity, Legendary
+
+Price, $2,500,000 or 2,300R$
+SpawnChance, 0.004285354171918326
+Name, Gravity-Gravity
+StockChance, 0.017
+Type, Natural
+Rarity, Mythical
+
+Price, $2,700,000 or 2,350R$
+SpawnChance, 0.0037811948575749927
+Name, Mammoth-Mammoth
+StockChance, 0.014
+Type, Beast
+Rarity, Mythical
+
+Price, $2,800,000 or 2,400R$
+SpawnChance, 0.0037811948575749927
+Name, Dough-Dough
+StockChance, 0.014
+Type, Elemental
+Rarity, Mythical
+Awakening, ƒ18,500
+
+Price, $2,900,000 or 2,425R$
+SpawnChance, 0.0035291152004033265
+Name, Shadow-Shadow
+StockChance, 0.013
+Type, Natural
+Rarity, Mythical
+
+Price, $3,000,000 or 2,450R$
+SpawnChance, 0.0035291152004033265
+Name, Venom-Venom
+StockChance, 0.012
+Type, Natural
+Rarity, Mythical
+
+Price, $3,200,000 or 2,500R$
+SpawnChance, 0.0030249558860599942
+Name, Control-Control
+StockChance, 0.011
+Type, Natural
+Rarity, Mythical
+
+Price, $3,400,000 or 2,550R$
+SpawnChance, 0.002520796571716662
+Name, Spirit-Spirit
+StockChance, 0.01
+Type, Natural
+Rarity, Mythical
+
+Price, $3,500,000 or 2,600R$
+SpawnChance, 0.002520796571716662
+Name, Dragon-Dragon
+StockChance, 0.01
+Type, Beast
+Rarity, Mythical
+
+Price, $5,000,000 or 3,000R$
+SpawnChance, 0.0010083186286866648
+Name, Leopard-Leopard
+StockChance, 0.004
+Type, Beast
+Rarity, Mythical
+
+Price, $inf or N/A R$
+Name, Meme-Meme
+Type, N/A
+Rarity, Mythical
