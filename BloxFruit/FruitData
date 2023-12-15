@@ -268,7 +268,7 @@ StockChance, 0.004
 Type, Beast
 Rarity, Mythical
 
-Price, 8,000,000 or 4,000R$
+Price, $8,000,000 or 4,000R$
 SpawnChance, 0.001006795872136924
 Name, Kitsune-Kitsune
 StockChance, 0.004
