@@ -218,6 +218,13 @@ StockChance, 0.014
 Type, Beast
 Rarity, Mythical
 
+Price, $2,700,000 or 2350R$
+SpawnChance, 0.0037707390648567115
+Name, T-Rex-T-Rex
+StockChance, 0.014
+Type, Beast
+Rarity, Mythical
+
 Price, $2,800,000 or 2,400R$
 SpawnChance, 0.0037811948575749927
 Name, Dough-Dough
